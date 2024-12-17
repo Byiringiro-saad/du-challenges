@@ -5,7 +5,7 @@ This repository contains two Next.js projects: **Calculator** and **Timer**. The
 ---
 
 ## **How to run**
-- Open the project and run /npm run dev/ in the parent foler
+- Open the project and run `npm run dev` in the parent folder
 - choose the project to run
 - let the magic happen
 
