@@ -1,6 +1,7 @@
 # Multi-Project Runner
 
-This repository contains two Next.js projects: **Calculator** and **Timer**. The parent app allows you to select which project to run, install dependencies, and start the development server.
+This repository contains two Next.js projects: **Calculator** and **Timer**. \n
+The parent app allows you to select which project to run, install dependencies, and start the development server.
 
 ---
 
